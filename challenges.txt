@@ -1,0 +1,27 @@
+Challenge 01:
+Can you help us secure our website? Looks like our developers were in a hurry!
+Flag Format: H4CK5T0MP{Th4S_1s_F4RST_FL4G}
+
+Description:
+On our website of ucoe, in the source code, we will comment this flag and ask users to visit the website and find the flag.
+
+Challenge 02:
+My freind Inndy pwned a website. He said it is not a domain name, just an IP Address. Can you help me find that IP Address ?
+TIP: Know the internet to the deepest. It's a search engine used by Hackers.
+
+Solution:
+Go to shodan.io and search for "inndy"
+Answer: 210.70.131.64
+
+Challenge 03:
+Sunny Deol has some hidden message for you. 
+Link: https://drive.google.com/file/d/1UKCIhxwQpRcX1e5S7Z7Sc0OS-EFW97ZU/view?usp=sharing
+
+Solution:
+Inspect the image metadata using command line. You will find the hidden flag at the end.
+
+Challenge 04:
+We have recently received reports about a hacker who goes by alias M411H3W. He is threating innocent people, stealing their sensitive data and must be stopped. Can you help us find him ?
+
+Solution:
+Search for alias on Twitter.
